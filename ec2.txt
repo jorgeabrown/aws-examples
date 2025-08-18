@@ -1,0 +1,3 @@
+### SSH into an EC2 Instance
+
+ssh -i .\pemfilename.pem ec2-user@publicIPofYourEC2
